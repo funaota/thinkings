@@ -15,7 +15,7 @@ Improvement of human value through optimization of lifestyle
 
 #### Sleeping
 
-最初は睡眠時間を6:30に設定する。
+最初は睡眠時間を6:30に設定する。  
 もし6:30の睡眠時間が不可能であった場合、
 7:30に睡眠時間を設定し、3週間ごとに30分短くする。
 最終的には6:30にすることを目標とする
