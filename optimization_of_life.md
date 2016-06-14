@@ -25,7 +25,7 @@ Improvement of human value through optimization of lifestyle
 - 3日続けて30分以上遅く起床する
 - 日中に不快感、睡眠不足を感じる
 
-目標就寝時間: 12:00  
+目標就寝時間: 12:30  
 目標起床時間: 7:00
 
 睡眠結果の判定には、目覚ましアプリを使用し、  
@@ -41,9 +41,9 @@ https://docs.google.com/spreadsheets/d/1uEu0igNhpr58riOicHb2gz2aJeiZIFJXZpP4eMFp
 
 #### Hourly learning content
 
-朝：プログラミング理論やコードリーディングなどのハード系  
-夜：プロダクト実装  
-深夜：デザイン、哲学、アート、英語、小説、音楽（いずれか）
+朝（ ~ 9:30）：プログラミング理論やコードリーディングなどのハード系  
+夜（ ~ 23:00）：プロダクト実装  
+深夜（23:30 ~ 24:30）：デザイン、哲学、アート、英語、小説、音楽（いずれか）
 
 #### Goal-setting cycle
 
