@@ -62,6 +62,15 @@ WantToDoリストは、google spread sheetにて管理を行う。
 
 計測結果に関しても、google spread sheetにて管理を行うこととする。
 
+#### Travel time
+
+移動中には、考え方や概念を勉強することとする  
+以下のサイトをぐるぐる読み回すこととする
+
+- http://magazine.rubyist.net/
+- http://postd.cc/
+- https://html5experts.jp/
+
 -------------------
 
 ### Flow state
