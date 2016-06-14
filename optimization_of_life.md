@@ -31,6 +31,8 @@ Improvement of human value through optimization of lifestyle
 睡眠結果の判定には、目覚ましアプリを使用し、  
 計測結果はgoogle spread sheetにて管理する。
 
+https://docs.google.com/spreadsheets/d/1uEu0igNhpr58riOicHb2gz2aJeiZIFJXZpP4eMFpV8E/edit#gid=0
+
 #### Rehydration
 
 起床後と就寝前に１杯の水を飲む。  
