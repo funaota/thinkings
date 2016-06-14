@@ -71,6 +71,10 @@ WantToDoリストは、google spread sheetにて管理を行う。
 - http://postd.cc/
 - https://html5experts.jp/
 
+#### Sport
+
+基本的に夜に10分程度ランニングすることとする
+
 -------------------
 
 ### Flow state
