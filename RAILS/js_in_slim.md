@@ -1,4 +1,4 @@
-# js in view file
+# js in slim
 
 ## index
 
@@ -15,15 +15,6 @@
 javascript:
   alert("hello world");
 ```
-
-#### in erb
-
-```erb
-<%= javascript_tag do %>
-	alert("hello world");	
-<% end %>
-```
-
 ----------------------
 
 ### require js
