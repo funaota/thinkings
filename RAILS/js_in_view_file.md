@@ -12,7 +12,7 @@
 #### in slim
 
 ```slim
-= javascript_tag do
+javascript:
   alert("hello world");
 ```
 
