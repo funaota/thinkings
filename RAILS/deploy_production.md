@@ -19,11 +19,14 @@
 
 以下の`RAILS_SERVE_STATIC_FILES`の環境変数にtrueを設定する
 
-```rb:config/environments/production.rb
+config/environments/production.rb
+
+```rb
 config.serve_static_files = ENV['RAILS_SERVE_STATIC_FILES'].present?
 ```
 
-```rb:.env
+.env
+```rb
 RAILS_SERVE_STATIC_FILES=true
 ```
 
