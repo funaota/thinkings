@@ -19,9 +19,9 @@
 #### in erb
 
 ```erb
-<%=javascript_tag do%>
+<%= javascript_tag do %>
 	alert("hello world");	
-<%end%>
+<% end %>
 ```
 
 ----------------------
