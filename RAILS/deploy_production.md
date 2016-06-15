@@ -1,5 +1,5 @@
 
-# deploy productuon
+# rails deploy productuon
 
 ## precompile
 
