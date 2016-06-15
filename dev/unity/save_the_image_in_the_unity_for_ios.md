@@ -67,6 +67,27 @@ https://gist.github.com/cellfusion/9777976
 
 ### Unity内での画像の取得方法
 
+```cs
+
+using UnityEngine;
+using System.Collections;
+using System.IO;  // ←Directoryクラスを使うにはコレがいる
+
+public class MyClass : MonoBehaviour {
+        void Start() {
+            string[] path_array = Directory.GetFiles( Application.dataPath , "*.*" );
+            int array_num = path_array.Length;
+            for( int i = 0; i < array_num; i++ ){
+                Debug.Log( path_array[i] );
+            }
+        }
+}
+
+```
+
+これでできそう。  
+検証いたしましょう。
+
 
 --------------------
 
