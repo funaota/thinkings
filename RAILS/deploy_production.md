@@ -51,11 +51,13 @@ RAILS_SERVE_STATIC_FILES=true
 
 `bundle exec rake secret`で出力された乱数を'config/secrets.yml'にセット
 
+config/secrets.yml
 ```rb
 production:
   secret_key_base: ENV[`RAILS_SECRET_KEY`]
 ```
 
+.emv
 ```rb
 RAILS_SECRET_KEY=09876567899876789....
 ```
