@@ -50,18 +50,6 @@ https://gist.github.com/cellfusion/9777976
 永続的なデータを保存するパス。
 ユーザーデータなど、アプリが再生成できないファイルを配置する。
 
-##### Android(本体)	
-
-/data/data/<アプリのID>/files/
-
-##### Android(SDカード)	
-
-/mnt/sdcard/Android/data/<アプリのID>/files/
-
-##### iOS	
-
-/var/mobile/Applications/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/Documents
-
 
 --------------------
 
