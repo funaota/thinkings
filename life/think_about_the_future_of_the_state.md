@@ -23,26 +23,25 @@
 
 - 干渉しすぎず、依存しすぎず心地いい距離感を持てる
 - 高めたい専門分野を持って研鑽している
-- - Development
-- - - web
---- native
---- 3d
---- image
---- ai/data
---- security
---- algorithm
---- database
---- animation/motion
---- etc
-
--- Design
---- app ui
---- web
---- font
---- magazine/paper
---- animation/motion
---- graphic
---- etc
+  - Development
+    - web
+    - native
+    - 3d
+    - image
+    - ai/data
+    - security
+    - algorithm
+    - database
+    - animation/motion
+    - etc
+  - Design
+    - app ui
+    - web
+    - font
+    - magazine/paper
+    - animation/motion
+    - graphic
+    - etc
 
 -------------------------
 
