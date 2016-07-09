@@ -23,8 +23,8 @@
 
 - 干渉しすぎず、依存しすぎず心地いい距離感を持てる
 - 高めたい専門分野を持って研鑽している
--- Development
---- web
+- - Development
+- - - web
 --- native
 --- 3d
 --- image
