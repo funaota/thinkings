@@ -27,3 +27,5 @@ JsonMapper.RegisterImporter<int, LitJson.JsonData> ((int value) => {
 			return (string)value.ToString();
 		});
 ```
+
+こんな感じ
