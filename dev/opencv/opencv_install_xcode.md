@@ -44,7 +44,6 @@ $ brew install pkg-config
 
 ```
 brew install opencv3 --c++11 --with-contrib --with-opengl --with-qt5
-
 ```
 
 これでとりあえずopencvのインストールは終了
