@@ -54,7 +54,7 @@ brew install opencv3 --c++11 --with-contrib --with-opengl --with-qt5
 Build Setting →　HEADER_SEARCH_PATHSに以下の文を`recursive`で追加します。
 
 ```
-/usr/local/Cellar/opencv3/**
+/usr/local/Cellar/opencv3/
 ```
 
 **recursive**で追加するのが大事です
