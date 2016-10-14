@@ -21,7 +21,7 @@ aliasだけでなく、複製します。
 
 ## ③GStreamerをinitする
 
-```ob-c:gst_ios_init.h
+```objc:gst_ios_init.h
 #ifndef __GST_IOS_INIT_H__
 #define __GST_IOS_INIT_H__
 
@@ -58,7 +58,7 @@ G_END_DECLS
 
 ```
 
-```ob-c:gst_ios_init.m
+```obc:gst_ios_init.m
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 #include "gst_ios_init.h"
@@ -1011,7 +1011,7 @@ gst_ios_init (void)
 
 ```
 
-```ob-c:main.mm
+```obc:main.mm
 #include "gst_ios_init.h"
 
 int main(int argc, char* argv[]){
