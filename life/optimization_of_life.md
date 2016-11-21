@@ -1,3 +1,5 @@
+## 破綻中笑（また考えよう）
+
 # Optimization of life
 
 ## Thema
