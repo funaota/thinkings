@@ -1158,4 +1158,4 @@ BuildSettings -> BuildOptionsにあるよ！
 - AssetsLibrary.framework
 - Security.framework
 - AudioTookbox.framework
-
+- VideoToolbox.framework
